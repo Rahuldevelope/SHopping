@@ -1,3 +1,4 @@
+It is forked from my non-acedemic Github ID which belongs to me.
 # SHopping
 
 The project is a full stack web application for a grocery delivery system. The frontend of the application is built using React, a popular JavaScript library for building user interfaces. The backend of the application is built using Flask, a lightweight web framework for Python. The database used in the project is SQLite, a lightweight relational database management system.
